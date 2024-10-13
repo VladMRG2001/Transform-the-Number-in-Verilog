@@ -1,7 +1,7 @@
 # Transform the Number in Verilog
 
 ## Objectives
-The project aims to familiarize students with the basics of Verilog programming, including:
+The project aims to familiarize students with the basics of Verilog programming, including: <br>
 ->Dividing a general problem into specific functional modules. <br>
 ->Implementing a given algorithm in a synthesizable manner. <br>
 ->Creating a finite state machine (FSM) based on a provided diagram. <br>
